@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>MP4 to WebM Converter</title>
+    <link rel="icon" href="icon.png" type="image/gif" sizes="16x16"> 
 </head>
 <body>
 
