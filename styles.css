@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(27, 27, 27);
+    color: aliceblue;
+}
+
+button {
+    border: 0px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: rgb(217, 189, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: rgb(217, 189, 32);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: goldenrod;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(250, 216, 23);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh; /* Optional: Adjust the height as needed */
+}
