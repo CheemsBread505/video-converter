@@ -6,9 +6,7 @@
 <body>
 
 <h2>Cheems Bread's MP4 to WebM Converter</h2> 
-<div class="link">
-    <a href="https://www.cheemsbread.xyz/">www.cheemsbread.xyz</a>
-</div>
+<h4>This might take up to 3 minutes.</h4>
 
 <div class="center">
     <form method="POST" enctype="multipart/form-data">
@@ -49,5 +47,10 @@
         }
     ?>
 </div>
+
+<div class="link">
+    <a href="https://www.cheemsbread.xyz/">www.cheemsbread.xyz</a>
+</div>
+
 </body>
 </html>

@@ -16,6 +16,13 @@ h2 {
     align-items: center;
 }
 
+h4 {
+    color: rgb(217, 189, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .link {
     display: flex;
     justify-content: center;
